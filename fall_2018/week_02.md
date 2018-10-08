@@ -14,6 +14,7 @@
 > In this section, you can write about what you have planned for next week.
 
 > Examples: New Bugs to be fixed, Design choices
+	
 	Determining whether I can start up the project in time(create algorithm in the next week)
 	Get familiar with notifications
 	
@@ -23,6 +24,7 @@
 > In this section, you can write about any blockers that you are having trouble in the project.
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+	
 	Confidence
 	
 
