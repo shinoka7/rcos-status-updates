@@ -5,7 +5,9 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 	
-	Added Component Template 'register.vue' and implemented some of the layout
+	Added Component 'register.vue' and implemented some of the layout
+	Still everything is basic simple, bad UI, but added functionality so that
+	I can start on the backend
 	
 	
 ## This Week's Plan
@@ -23,7 +25,7 @@
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 	
-	Need to understand how to locally run the shuttletracker do changes
+	Need to understand how to locally run the shuttletracker do to changes
 
 ## Notes
 

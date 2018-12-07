@@ -5,8 +5,8 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 	
-	Designed some new core functions
-	
+	Designed some new core functions for notifications
+	Mainly for sending out notifications.
 	
 ## This Week's Plan
 
@@ -23,8 +23,8 @@
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 	
-	Nothing.
-	
+	*Realised recently there was already some code written to send out notifications,
+	kinda defeats the purpose of the code I wrote but we'll see.
 
 ## Notes
 

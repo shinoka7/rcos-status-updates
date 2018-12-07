@@ -5,7 +5,10 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 	
-	Reconsidered implementation design, 
+	Reconsidered implementation design.
+	Make an extension registration page from the shuttletracker page.
+	Registration page will take input to store into database.
+	Based on the data stored, we will send out notifications via sms/mms
 	
 	
 ## This Week's Plan
@@ -14,7 +17,7 @@
 
 > Examples: New Bugs to be fixed, Design choices
 	
-	Register page outline
+	Start to implement front end
 	
 
 ## Anything Blocking?

@@ -7,6 +7,7 @@
 	
 	Have not been able to progress in notifications.
 	Realization to realistic steps and requirements needed to start up the project.
+	Need to gather more knowledge and create reasonable timeline/schedule to get the project going
 	
 	
 ## This Week's Plan
@@ -16,7 +17,8 @@
 > Examples: New Bugs to be fixed, Design choices
 	
 	Determining whether I can start up the project in time(create algorithm in the next week)
-	Get familiar with notifications
+	Get familiar with notifications. What kind of way should we use to send out notifications,
+	what kind of notifications should be sent out, etc.
 	
 
 ## Anything Blocking?
@@ -25,7 +27,7 @@
 
 > Examples: Confusion on how to approach a problem, Limited experience with a specific technology
 	
-	Confidence
+	Self capability of working on 2 projects at once
 	
 
 ## Notes

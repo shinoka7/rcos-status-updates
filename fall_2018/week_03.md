@@ -5,7 +5,7 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 	
-	Got comfortable with languages. 
+	Got comfortable with Golang, JavaScript, HTML.
 	
 	
 ## This Week's Plan
@@ -14,7 +14,8 @@
 
 > Examples: New Bugs to be fixed, Design choices
 	
-	Testing possible features.
+	Testing possible features. Sending out notifications via email, via sms/mms,
+	via phone call (using TTS: this will be funny)
 	
 
 ## Anything Blocking?
