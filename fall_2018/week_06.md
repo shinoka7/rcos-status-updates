@@ -7,7 +7,9 @@
 	
 	Added Component 'register.vue' and implemented some of the layout
 	Still everything is basic simple, bad UI, but added functionality so that
-	I can start on the backend
+	I can start on the backend. Currently haven't implemented a calendar UI,
+	so that will be a potential later issue that needs to be attacked on the
+	frontend side.
 	
 	
 ## This Week's Plan

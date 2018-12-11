@@ -5,7 +5,8 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 	
-	Reconsidered implementation design.
+	For reasons such as carrier lookup from phonenumber not being viable/accurate,
+	reconsidered implementation design.
 	Make an extension registration page from the shuttletracker page.
 	Registration page will take input to store into database.
 	Based on the data stored, we will send out notifications via sms/mms

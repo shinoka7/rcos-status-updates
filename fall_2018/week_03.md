@@ -5,7 +5,8 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 	
-	Got comfortable with Golang, JavaScript, HTML.
+	Got comfortable with Golang, JavaScript, HTML. Learned about gateways and potentially
+	how we would use them. Made a list of sms gateways that we might use later.
 	
 	
 ## This Week's Plan

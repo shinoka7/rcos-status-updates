@@ -5,8 +5,10 @@
 > Examples:
 > Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
 	
-	Designed some new core functions for notifications
+	Designed some new core functions for notifications.
 	Mainly for sending out notifications.
+	Given the user's phonenumber, the phonenumber would be converted into 
+	an email address, and be sent out using the specific sms gateway.
 	
 ## This Week's Plan
 
@@ -15,6 +17,7 @@
 > Examples: New Bugs to be fixed, Design choices
 	
 	Start implementing these functions
+	Figure out if carrier lookup from phonenumber is a viable option/accurate
 	
 
 ## Anything Blocking?

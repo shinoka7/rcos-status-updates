@@ -7,7 +7,9 @@
 	
 	Added dropdowns for scheduling the notification. Initially the idea was to use
 	a calendar UI for this but because of time running short and backend needing to
-	be implemented as well, we will keep the frontend simple for the time being. 
+	be implemented as well, will keep the frontend simple for the time being. Started to
+	look into how the shuttletracker is actually run, what is connected where and how it's
+	kept updated.
 	
 ## This Week's Plan
 
