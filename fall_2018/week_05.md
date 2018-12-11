@@ -18,8 +18,9 @@
 
 > Examples: New Bugs to be fixed, Design choices
 	
-	Start to implement front end
-	
+	Start to implement front end.
+	Get a simple page ready to extract data from user.
+	Learn more about calendar UIs.
 
 ## Anything Blocking?
 

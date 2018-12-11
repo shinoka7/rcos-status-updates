@@ -17,8 +17,8 @@
 > Examples: New Bugs to be fixed, Design choices
 	
 	Start implementing these functions
-	Figure out if carrier lookup from phonenumber is a viable option/accurate
-	
+	Figure out if carrier lookup from phonenumber is a viable option/accurate.
+	Figure out the design of what bases the notifications to be sent.
 
 ## Anything Blocking?
 

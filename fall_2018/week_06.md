@@ -19,7 +19,9 @@
 > Examples: New Bugs to be fixed, Design choices
 	
 	Finish up register.vue implementation
-	
+	Start to look into how to implement backend.
+	Still a bit confused, so learn more about how the shuttletracker functions
+	on the backend side.
 
 ## Anything Blocking?
 

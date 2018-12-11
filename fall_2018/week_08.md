@@ -18,6 +18,7 @@
 	
 	Figure out how to create and manage the database for notification data
 	Going to do a clean install to run shuttletracker locally, get rid of corrupt files
+	Change the current format of how notifications are sent out.
 	
 
 ## Anything Blocking?

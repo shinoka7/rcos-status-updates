@@ -18,7 +18,7 @@
 > Examples: New Bugs to be fixed, Design choices
 	
 	Figure out how to connect the other components to the main code, and make the notifications
-	be sent out at all specified times, but only for so.
+	be sent out at all specified times, but only for so. 
 	
 
 ## Anything Blocking?

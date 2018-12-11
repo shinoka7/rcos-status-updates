@@ -19,6 +19,7 @@
 	
 	Haven't been able to run shuttletracker locally so need to fix to test new features
 	Finish implementing functionality to the component to connect to backend.
+	Start to make structures and framework for notificatons.
 	
 
 ## Anything Blocking?

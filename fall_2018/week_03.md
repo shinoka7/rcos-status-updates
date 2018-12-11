@@ -16,7 +16,8 @@
 > Examples: New Bugs to be fixed, Design choices
 	
 	Testing possible features. Sending out notifications via email, via sms/mms,
-	via phone call (using TTS: this will be funny)
+	via phone call (using TTS: this will be funny). Currently sms is probably 
+	the most viable, but is subject to change.
 	
 
 ## Anything Blocking?
